@@ -20,7 +20,8 @@ SCRABBLE_LETTER_VALUES = {
 # Helper code
 # (you don't need to understand this helper code)
 
-WORDLIST_FILENAME = 'C:\\Users\\mose\\OneDrive\\Python MIT\\Problem set 4 Week 4\\WordGame\\ProblemSet4\\words.txt'
+WORDLIST_FILENAME = 'C:\\Users\\RCL\\Documents\\Python MIT\\Problem set 4 Week 4\\WordGame\\ProblemSet4\\words.txt'
+
 
 def loadWords():
     """
